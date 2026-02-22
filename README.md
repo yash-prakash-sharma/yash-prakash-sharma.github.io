@@ -1,4 +1,4 @@
-# 🖥️ Terminal Portfolio - Kumar Jyotirmay
+# 🖥️ Terminal Portfolio - Yash Prakash Sharma
 
 A hacker-themed portfolio website with terminal aesthetics and typewriter effects.
 
@@ -206,10 +206,10 @@ Found a bug or have a suggestion? Feel free to:
 
 ## 📧 Contact
 
-**Kumar Jyotirmay**
-- 📧 Email: jmy2898@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/jmytwenty8](https://linkedin.com/in/jmytwenty8)
-- 🐙 GitHub: [github.com/jmytwenty8](https://github.com/jmytwenty8)
+**Yash Prakash Sharma**
+- 📧 Email: yashprakashsharma2000@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/yash-prakash-sharma](https://www.linkedin.com/in/yash-prakash-sharma-560202201/)
+- 🐙 GitHub: [github.com/jmytwenty8](https://github.com/yash-prakash-sharma)
 
 ---
 

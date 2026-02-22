@@ -209,7 +209,7 @@ Found a bug or have a suggestion? Feel free to:
 **Yash Prakash Sharma**
 - 📧 Email: yashprakashsharma2000@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/yash-prakash-sharma](https://www.linkedin.com/in/yash-prakash-sharma-560202201/)
-- 🐙 GitHub: [github.com/jmytwenty8](https://github.com/yash-prakash-sharma)
+- 🐙 GitHub: [github.com/yash-prakash-sharma](https://github.com/yash-prakash-sharma)
 
 ---
 
